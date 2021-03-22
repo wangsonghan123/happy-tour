@@ -1,0 +1,48 @@
+.user-layout-container {
+    height: 100vh;
+    background-image: url("https://images.mafengwo.net/images/signup/wallpaper/28.jpg") !important;
+    background-size: 100% !important;  
+    background-repeat: no-repeat;
+    background-position: center 110px;
+}
+
+.header {
+    background: transparent !important;
+}
+
+.header .lang {
+    float: right;
+}
+
+.content {
+    flex: 1;
+    padding: 32px 0;
+}
+
+.content .top {
+    width: 500px;
+   float: right;
+   background-color: rgb(245, 244, 248);
+   margin-right:200px;
+}
+.content .top .content-header {
+    height: 45px;
+    line-height: 44px;
+}
+
+.content .top .content-header a {
+    text-decoration: none;
+}
+
+.content .top .content-header .logo {
+    height: 45px;
+    width:180px;
+    margin-left: 130px;
+    margin-top: 30px;
+}
+
+.content .top .desc {
+    width: 450px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
